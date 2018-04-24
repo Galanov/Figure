@@ -1,0 +1,5 @@
+C:\Projects\FigureApp\FiguraLibrary\bin\Debug\FiguraLibrary.dll
+C:\Projects\FigureApp\FiguraLibrary\bin\Debug\FiguraLibrary.pdb
+C:\Projects\FigureApp\FiguraLibrary\obj\Debug\FiguraLibrary.dll
+C:\Projects\FigureApp\FiguraLibrary\obj\Debug\FiguraLibrary.pdb
+C:\Projects\FigureApp\FiguraLibrary\obj\Debug\FiguraLibrary.csproj.CoreCompileInputs.cache

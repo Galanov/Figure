@@ -1,0 +1,17 @@
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\Figure.Tests.deps.json
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\Figure.Tests.runtimeconfig.json
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\Figure.Tests.runtimeconfig.dev.json
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\Figure.Tests.dll
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\Figure.Tests.pdb
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\FiguraLibrary.dll
+C:\Projects\FigureApp\Figure.Tests\bin\Debug\netcoreapp2.0\FiguraLibrary.pdb
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.AssemblyInfoInputs.cache
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.AssemblyInfo.cs
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.csproj.CopyComplete
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.dll
+C:\Projects\FigureApp\Figure.Tests\obj\Debug\netcoreapp2.0\Figure.Tests.pdb
